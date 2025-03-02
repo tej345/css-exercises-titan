@@ -1,0 +1,16 @@
+.subsection{
+    background-color:pink;
+    font-family:Verdana,"DejaVu Sans",sans-serif;
+}
+.font{
+    font-size: 24px;
+}
+
+#div{
+    color:blue;
+    font-size:36px;
+}
+#rpm{
+    background-color:lightgreen;
+    font-weight:bold;
+}
